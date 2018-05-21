@@ -10156,7 +10156,6 @@ return array(
 
   // src/applications/differential/phid/DifferentialRevisionPHIDType.php:8
   // src/applications/differential/customfield/DifferentialRevisionIDField.php:17
-  'Differential Revision' => 'Diff检阅修订',
 
   // src/applications/differential/query/DifferentialRevisionSearchEngine.php:7
   // src/applications/differential/editor/DifferentialTransactionEditor.php:16
@@ -22545,7 +22544,6 @@ return array(
   // src/applications/differential/event/DifferentialHovercardEventListener.php:49
   // src/applications/differential/customfield/DifferentialReviewersField.php:15
   // src/applications/herald/adapter/HeraldAdapter.php:368
-  'Reviewers' => '修订人',
 
   // src/applications/differential/view/DifferentialRevisionListView.php:163
   'Reviewers: %s' => '修订人：%s',
@@ -25087,7 +25085,6 @@ return array(
   // src/applications/subscriptions/events/PhabricatorSubscriptionsUIEventListener.php:125
   // src/applications/subscriptions/controller/PhabricatorSubscriptionsListController.php:43
   // src/applications/pholio/controller/PholioMockEditController.php:346
-  'Subscribers' => '订阅者',
 
   // src/applications/phortune/subscription/PhortuneSubscriptionImplementation.php:35
   'Subscription' => null,
